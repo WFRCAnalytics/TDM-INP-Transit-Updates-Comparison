@@ -29,11 +29,11 @@ S227,227,227,4,Local Bus,Salt Lake
 S232,232,232,4,Local Bus,Salt Lake
 S240,240,240,4,Local Bus,Salt Lake
 S248,248,248,4,Local Bus,Salt Lake
-S307X,307,307,6,Express Bus,Salt Lake
-S313X,313,313,6,Express Bus,Salt Lake
-S320X,320,320,6,Express Bus,Salt Lake
-S354X,354,354,6,Express Bus,Salt Lake
-S451X,451,451,6,Express Bus,Salt Lake
+S307X,307X,307,6,Express Bus,Salt Lake
+S313X,313X,313,6,Express Bus,Salt Lake
+S320X,320X,320,6,Express Bus,Salt Lake
+S354X,354X,354,6,Express Bus,Salt Lake
+S451X,451X,451,6,Express Bus,Salt Lake
 S454,454,454,4,Local Bus,Salt Lake
 S455,455,455,4,Local Bus,Ogden
 S456,456,456,6,Express Bus,Salt Lake
@@ -47,7 +47,7 @@ S472X,472,472,6,Express Bus,Salt Lake
 S473X,473,473,6,Express Bus,Salt Lake
 S509,509,509,4,Local Bus,Salt Lake
 S513,513,513,4,Local Bus,Salt Lake
-S519/520,520,520,4,Local Bus,Salt Lake
+S519/520,519,519,4,Local Bus,Salt Lake
 S525,525,525,4,Local Bus,Salt Lake
 S526,526,526,4,Local Bus,Salt Lake
 S551,551,551,4,Local Bus,Salt Lake
@@ -67,7 +67,6 @@ O630,630,630,4,Local Bus,Ogden
 O640,640,640,4,Local Bus,Ogden
 O645,645,645,4,Local Bus,Ogden
 O650,650,650,4,Local Bus,Ogden
-O667,667,667,4,Local Bus, Ogden
 M805_Santaquin,805,805,4,Local Bus,Provo
 M806_EglMtn,806,806,6,Express Bus,Provo
 M807_NoCnty,807,807,6,Express Bus,Provo
@@ -87,27 +86,28 @@ S953,953,953,4,Local Bus,Salt Lake
 S2X,2X,002X,6,Express Bus,Salt Lake
 BRT3500S,35M,035M,5,BRT I,Salt Lake
 Blue,701,TRAX-Blue,7,LRT,Salt Lake
-SF94,94,F094,4,Local Bus,Salt Lake
-SF400,400,F400,4,Local Bus,Salt Lake
-SF453,453,F453,6,Express Bus,Salt Lake
-SF504,504,F504,4,Local Bus,Salt Lake
-SF514,514,F514,4,Local Bus,Salt Lake
-SF518,518,F518,4,Local Bus,Salt Lake
-SF522,522,F522,4,Local Bus,Salt Lake
-SF534,534,F534,4,Local Bus,Salt Lake
-SF546,546,F546,4,Local Bus,Salt Lake
-SF547,547,F547,4,Local Bus,Salt Lake
-SF556,556,F556,4,Local Bus,Salt Lake
-SF570,570,F570,4,Local Bus,Salt Lake
-SF578,578,F578,4,Local Bus,Salt Lake
-SF590,590,F590,4,Local Bus,Salt Lake
-FD605,605,F605,4,Local Bus,Ogden
-OF618,618,F618,4,Local Bus,Ogden
-OF620,620,F620,4,Local Bus,Ogden
+SF94,F94,F094,4,Local Bus,Salt Lake
+S320X,F320,F320,6,Express Bus,Salt Lake
+SF400,F400,F400,4,Local Bus,Salt Lake
+SF453,F453,F453,6,Express Bus,Salt Lake
+SF504,F504,F504,4,Local Bus,Salt Lake
+SF514,F514,F514,4,Local Bus,Salt Lake
+SF518,F518,F518,4,Local Bus,Salt Lake
+SF522,F522,F522,4,Local Bus,Salt Lake
+SF534,F534,F534,4,Local Bus,Salt Lake
+SF546,F546,F546,4,Local Bus,Salt Lake
+SF547,F547,F547,4,Local Bus,Salt Lake
+SF556,F556,F556,4,Local Bus,Salt Lake
+SF570,F570,F570,4,Local Bus,Salt Lake
+SF578,F578,F578,4,Local Bus,Salt Lake
+SF590,F590,F590,4,Local Bus,Salt Lake
+FD605,F605,F605,4,Local Bus,Ogden
+OF618,F618,F618,4,Local Bus,Ogden
+OF620,F620,F620,4,Local Bus,Ogden
 OF638,638,F638,4,Local Bus,Ogden
 RCRT_OGPN,750,FrontRunner,8,CRT,Salt Lake
 OGPNShuttle,750s,FrontRunner to Pleasant View,8,CRT,Salt Lake
 Green,704,TRAX-Green,7,LRT,Salt Lake
 Red,703,TRAX-Red,7,LRT,Salt Lake
 Sline,720,S-Line,7,LRT,Salt Lake
-BRT_ProOrm,830,UVX,9,BRT III,Provo
+BRT_ProOrm,830X,UVX,9,BRT III,Provo
