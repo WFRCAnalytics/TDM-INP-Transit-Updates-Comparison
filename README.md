@@ -93,5 +93,5 @@ Generates bar charts and summary tables for:
 ## 🧰 Requirements
 
 - Python 3.x  
-- ArcPy (must be run within ArcGIS Pro environment)
+- ArcPy (must be run within ArcGIS Pro environment) just to convert DBF
 - `pandas`, `numpy`, `matplotlib`
