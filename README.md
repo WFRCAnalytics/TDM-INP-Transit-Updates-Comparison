@@ -80,7 +80,7 @@ Generates bar charts and summary tables for:
 
 ---
 
-## 📈 Charts
+## Charts
 - All key comparisons are visualized using Matplotlib
 - Custom coloring and formatting for clarity
 - Grouped charts include:
@@ -90,7 +90,7 @@ Generates bar charts and summary tables for:
 
 ---
 
-## 🧰 Requirements
+## Requirements
 
 - Python 3.x  
 - ArcPy (must be run within ArcGIS Pro environment) just to convert DBF
